@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>Artboard 1</title>
+	<defs>
+		<image  width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAAXNSR0IB2cksfwAAAg1QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////rxuhpgAAAK90Uk5TAAxNpd/x7u3w57lkFwE0kuj/96pMAlDMg2hlZ3e2eQtH9PVwBQ8ODQNP2n0d0v1TQ7Lj4MYm+khtjlz+z83sl/yzBhIpKPPqVAQ2w2Ew0ZN8OOSNUSfL9kEcrevWST4IRrUh14dLINh0MWLKFE77txGpxI+kLb0TUoy6PZrikeVuNYhKpxs/hqZCcsjBneGjidCQlQpXgYSCaRp40wl2Ipw3RbC4vx7v5sUZIyRAZpS4zOcAAAIDSURBVHicbdP5VxJRFAfwqyFWxvJFR21BhZIlEQoCKxwCCYwoNSCDMjLSVitNo8x2UjTbbN83K1usv7FHDNCA31/mvvM575z37rtDlE1Z+TJJhbSSRbp8xcqqVTISRa5QIh9VdQ0n0lol6upXr/mXtevUQEPjf9qk0a7fQM06nV6v1zUbyLgRLYa8mlrNFtq02WqTsNisW6rIbnW05VS2FdtoO5ztfDsLz7uwg9rcng6BvWrtTp+/c1eHLMDCcbuD2EPByr0C27tc3UH0FI6yzxEK86qIsNrfC+cBPlrg2MEKMw7l2N5nNR6Oewt8RF7ef9SdZ0mQStIDi1AljvWW8gAGher4CdfJU2KMnT4DY7YcCrM2D4j57DngvC/Tk+ERXPBgVMwWdI2h9SJH8gYkL8nNYTFfRguN48oEXb0WSlANxsUcwXUKeDBCNzISKWUFOwA6SYWb7LmX5FvQkhK3l9zdTZRiu+9I+yZZUcKjxI3BQ1NpTA/NFJ884kwb7mI2RTLTPajvO4sv5k6m8SCaGcjJhw7gUVHXWCPnJoTF4OMnTezz9NnzF/UvX71mpenN2/yDCnn3Pjvl1R/KvAH6mHuSXD5pbLWf+1PTmJv/Mv8VvE/McWddIhb7lsaCJPTdmoyKlYYVgEbrxo/4z1+Li41FSrLfs/4FqV/yh80yx2X/wb+f6G8rUlZHYgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Artboard 1">
+		<g id="hedder and banner">
+			<g id="middide element">
+				<g id="middile all">
+					<g id="footer">
+						<use id="contact fotter icon" href="#img1" x="0" y="0" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

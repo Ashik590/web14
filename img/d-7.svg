@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>Artboard 1 copy</title>
+	<defs>
+		<image  width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAABNlJREFUeJxVVFtsFFUY/uecM7P3S3e73d02tEBpKRTCTUUSA4nR+KAhgYgxMTHeAk+GRzUhhgSN+uCDxtuDCgKJtydJSACxcUsIanENQi/aUqHbbtmy2+3OXmfmzDn+s0sbmMyc/JNzzne+/zvf/7PNT712cHxq9h2f1z316Nb+5yiB2flsFoSUIPGjhIDz2EIAwVjB2Pli7RHQayYEgyFcB+DWKPg9DNj4zewHXR2hI4VS7dW5XOFgIux629lAiYKggCBKE1AijBMvAzI8eXnu/ofhyUqxXHvGFjJ6M7Pw8syc3CZbCPhKaHECEA6k0gJ0GM0V6nosGvwsHCKXue3M3QN01ro0l85tw/J7PcaqZDTDua0oElNUAANicFyDC6kUwoXAhFAGS3q1c2I6d66zo31Pe9iftizePIjhp2jEftOiyjEEKzy5c+PhumGAHQhBJRyDBeZdl7FYLE7N2bhVyXj1IiilIkzP5mBhUU+PTt7e98im1Wm/19fUmTlMLW4H8AJUzrlWQzA6sBlmXOFNqbrnhC7ZDomrJkCKqGb8sqOLvlS/cT079Ot5pMNyoMjVd4vVrQ3TURxMJ2VYkdY5IdQG5UgiMbzILmjSmvFJvrBWs76dMtUXOCGxv6r07OPre3eFEvFGKXe3ZnF54OrYzNPIjnJbGKylf8siBJUlfj/8XRavE8ucHVRrb13jvi/7ROnTjNJ+YBfVX0mZwbM5j+dAsqfzVCl7J8CIPLm2M3Qsv1TZMr9YP8maN4ocnVvCV+Ylg1sG2V4RMjnScH9uM9p5vh74zlBJfLjmPl6nissmZGc85Ds1gRxMixcz8/mMZYsI+lSwZV85g0ALqWgQFwGj3U3vJFTl+mQdYlvatIvpqtzQH1CHJg2y3+B2w7Ls5h6kQi0uMMCt92zTShk1VbASgsKCHmb9NGpq74ZJ/X0N3LvX2PoPYxB6vktpDI1L36GkKs+kizqsmO8+fz+QssRBlMuwvZedntfp/ks17zdUIWrKDHykS9J1rub9sb/N/bWs5Yez0zOgMLaC5xjfiZZTFjhIQqk0iovw74WL1sDGTftUd/uRPPM9qyvqQEQV15K8fLwrn/3k6rkhaJTKoLi0Vkm1KK1UCmonmXPJhmGSy+lROjWdAV9qmEd7eo52JxLvBd2qr9ow9dLcHL9y67YiGgYZ6E3Yk3NLXGIxPVDLWJ+iWONnELBt4r95bDL2E4x6YbFkQCE9hgRG7VZZS4JpSKapBtaWVy7VKih5AnMbkfcDOmxVqnyBV7LX5/VUytXGCbRC84KAaQDLjQJP7IiGNpTKlTdQnUOM0g707VGO6QnFaQ6kpSEuVEJe9XvsAIOrEpF8PBI4/fOVMUeGlfYkbBv61iShrzu+7eJvNw4Pru34StM0+Od2fi9xMxH0Migs1aqAudyzDXYSBMbS0fpxo4UTqT/Gsdhlc7Yt7IdtA92AXWhGVdVy9m7lJGPkelGv7UxE/WOqqr3IVKtX1BseR0PWMO2HTC4TGC+ZaNi+1fEms9QIguJ/wOcFjp0RKRe2ru/eOzaZ+bDByWORkG/U4HLXQqmxhxAmom3+Px2GuXJDfCwsrmCGKUcr0+SwrrsDO7aAS7+PN9uSbYsmY59XG3l4sGd3MhEjpmkCpbRpHOyVzQb8P3lrdsqLsrm2AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Artboard 1 copy">
+		<use id="Layer 60" href="#img1" x="0" y="0" />
+	</g>
+</svg>

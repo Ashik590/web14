@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 25" width="26" height="25">
+	<title>Artboard 1 copy</title>
+	<defs>
+		<image  width="26" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAZCAMAAAAYAM5SAAAAAXNSR0IB2cksfwAAAT5QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////pbKO4QAAAGp0Uk5TAByi5OCSD8//tQVePoNhWToLxKkDE5TV0QkCBnNjCPrXBOzNXd3n6eNAb9/Ox8hNbExKclJ2TilgHisBRrbTsTwQjMt8uq42+/c9vqNT8zTJu1Y41O8W9OLF3lBo/UViylcgqOXhmRJp0pHZHTgAAAEZSURBVHicfZJnU8JAEIYXUbKigA01RhGNJNJEsaHRYAN772Lv/v8/4O0e6szN4ftln9yTuezsBuA3gaZgc0sINAkZKNIa1qg25LRrVESqqEbFpOrQqM4uMt09uj7ivX39EVNnRMIDDcR/sQaHGqnEcFI5GTHriY/aP2jKRsdSQYfjIkpwxlNpVhnM2jmKnZ/ISXCwwGoSp9SvZrDIdRpnVDWLc1znSwuqWiwFlBNPeV5a9ssrBKtrxvqGRVSo+NVNgOKWmPf2DoC5S5PfE2PcJzg4hCPe0rEHJ3Jfp2CdMVThnGvW+tvyxSXDFfhcrz2ISpWGxI28qP631EQX/FJF9HFLcHcP8GC4j0/U1/PL69v7B9Hnl5uvwTe5nCRm7JbamAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Artboard 1 copy">
+		<use id="Layer 47" href="#img1" x="0" y="0" />
+	</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>Artboard 1 copy</title>
+	<defs>
+		<image  width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAABKpJREFUeJxtVG1MW1UYfs8p2SiFDqHt7e3tpb2lRQaFMqDQQgv9poypGKLIQMnmkgUVzaaJGkxQFjbH+JyamEGyMY0DncpQg2aJ2w9jdFsccWOLS/xvoj9M3D9N6nNu54+pP97ce8895znP8z7v+xIr87Uwe+M419Je7t1N3NuD2ENYdzCz08JsdcR9DxOv6CTuSpC+R0sTdyfzoaXLuCu2xF3xVa5GKrCQ+oy7EyeYs32JlSjEpAYcjAWx4ROuRs/jvQ8XxPNrSaYDerrEHlzSgWc8wJ3tG9zZtsFsgTQxuWkct3+Bm65yR2uAlVcTU0J93B2/AAYbYPcer+x+G/ElYhihq2ByM1RU6QHwKZxfxruBaHsxUZGlFGBtWPwKsp4DY8asdY/hUFaX7IoLkF6Ajf+TEu576F56wLiy+ynEIfFOZCwjKiwlZm8i5mg14/BJ3LgMCY24IMLVjou4YB+vzC5yT3YT7E1cCedTo2UApgMeQLws2BMOEm0rESYIqZDSIuR0MUvNFFlq3yFn7DeyNY6T1HyalOht7CumEhXKzMSlQJ7tfYCQA8kSM6v5G53tRCY78UIz2RsyiiPy5Kgc6t8rh/uHnbH9T0vNvXYORWQsJ2FiXnJW5PZVwRbWJ16HWx/D8tewGILMgyS3Lj+w61F/bOLrn9Mzm7nU9A96ZOZu5EKHz10sdNRVM0dolcvN/QDzwbw57mg5IAwV1q8zNTqOUriGEpoD6Pfkzvxp8oQH4kcu/5449l0ufvRbPZJT13LhFz+8ZZDq+1llTw57r+DcR1xtPwEwA7PVE7Ed7gCXg3MAXmGO4DBXQgGyNYyaPG07YxOX7v4bMHR45Y7ButOOmjsIw2yiJpF7I6pijCnhQVAsAKjrcUg/BerrSPIvzJPNmb3hIQD+ej/gVQF43aAER5h3DxjuvgKW51GrN0FmlrtT6/daKq7C7VN4n2BKNCn5asZqgg11kfHLf/wPw9sGm7+GycEFdFITalECyzamtK6i3OaJV/WKSlcg9XkYcgjgy6yi83qx1poGw//kEIA39Ry6U1sAmga7F0BkCDm04BLk0BYoBNAaK/U8S0XWAeTyLKnxrR01mY7E0W/upmd/zKWE04jM/Fau/ZW1G9u1SB9zJe9wT2aKiu2DyN9xnJtkpRpSqEZc6IA1dAlRgZGYpZZY+YNk1KJU9chLA/69k4u1T0yc8Q8cOV039Oa7WtdIcpu8C7UrcV4RJSqWUbsRCfn/AKVDoh8demJFxQvHnGHRfkkY0w2j0mRtWKRyf5Zs9ftJajwJNQm42Yne5/rU8WRFtygw6KzAwEImix+3UKCy3uxaegm3zeN9lmnpM7hMuPmWPm28PX/huYBYRoegEbL5XvZkUsDYxLcqOuVzpkaOoX9nINcPwJ9gUj33YchKkGaSqsHYiJa0IPFaXkl2HwC28C2zIitH2i6gOSbRPYti6i7ApU/h0CDy+D7aaQw/10RvsxKHPon00sLgEAOBmSus+L6EKf8G4jimuiA1LTAQI9gYLqCiclWfeVp6FEzO4fmMPii0FDGTBOOi+emMwQEChQCYwYRfwf+sLluNGDAGVa4l6W+5aVhr9NYokgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Artboard 1 copy">
+		<use id="Layer 55" href="#img1" x="0" y="0" />
+	</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>Artboard 1 copy</title>
+	<defs>
+		<image  width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAA5RJREFUeJyllVlMU0EUhs9tiQWMS7USQIS2yCKCCC6IKEvb21aQuIDEF3cUSZHEBeISjEBAWigkxiUqxgXZBBUIsoRERClIoRhjjDHG6IOmD+qjz/jPZUjUVF58+HJP78x8zJkz90Cy0C3kAT9QIGhNTRSs6yK12EohhjYK1ncLWvM9jO0Dcz2t9SSzQPSMlqVVeIVnxvuLpxSrLffF6CO3ElSpx3zky9NTaJnuKsRDmLtzNqFcpjXfwuRmLAoM2lpCiWd6fA3VrjpD9cQUnj/1tvFz64s6ZAGmYpJpTauw40GsK/Ms1JrrBY3JviS1kNadfERizeQuvdX5Oa1yZOp3IH0n1ri2xRe20MLEXMJxdGL92b+FhylEbArNsZFof5WERQVYPAIm+PMFh8UuMIxdW/Q2Z5y/scgHO3XAkTojVJLG5FBEZfkllz5T6K1jPVgwDoZAH3gCBjks7udjTkhvrjv1mGW3EfSzY2PCfBTB6hWRSRtOdxOEckxu4YIMEMgFDD+wnY81QCigYCSojczzCKSx4AFIxLWg1ZZGwiTC5DLwHkQCLy7ol+IKR+T0mKPUUD1OUQeuEVJmnoPAxoJebFcJaO3xdsL5MWEtL0I4YL8/gXdSXDEcNj3mqDPYnBSbf4fYZuBZBdpY8AR3SiYPy6CE4k6k7GQCOxdGcOEH8IYLw7nQbrCOUXxhMyptZOeogmuCCbv/R7gGQkFtmhG6mLAPwoWC55RnhB/B27+EtVLKR5FysJRyNKsHC9oFjTHBOzqbNpUMkL5qjAlKwA9eYfbbCZ5zYQBkP1CcEtwIWnviIclD0wkb2jtTlEIK0Vcpk/JIZx1TYNF1MMAvcBtoBKP8UjdK7yocGHMM6C6+LMXdJe+YHHaOrXBJ5VahSqMLNuSqdFUvV6RdHGUVdYMv4Bv4Dr5yvvN3bMyN+Y7NpYOLFNHZcciyDy4v6dPDxSzwicmpTykfuiLaJ934y24u/SeQuY11r90JxV0n5cszOpCy7o/mgC03LE623I0raFqaUjYUZLBNaNAggEuDTiPBYvYOhdNsvvA0MCbvdtj89ft7BbV4zlP7Uggh+gZ0j3rf2N1KP91x0mRVUuTey7Ty0A2JiD2XSL2jnFQpxwhF1ODsH+O4/tG+wJwwM57mIuz2BT6n82iy8ejY89inNY1OiXdJiGtwZqwX7p61Y08LpTgQFPMPvht0cFjczNodmOfpX8AvNAYZ68+9NuwAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Artboard 1 copy">
+		<use id="Layer 51" href="#img1" x="0" y="0" />
+	</g>
+</svg>
